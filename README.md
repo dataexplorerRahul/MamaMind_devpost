@@ -1,1 +1,2 @@
-# MamaMind_devpost
+# devpost_hackathon_MamaMind
+
